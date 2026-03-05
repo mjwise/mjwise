@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ibraheem Nuuh
+======================================================================================================================================
 
-<!--
-**mjwise/mjwise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Upcoming Web Designer.
+----------------------
 
-Here are some ideas to get you started:
+I Am A Web Designer passionate about creating responsive, user-friendly, and visually appealing websites using modern web technologies like WordPress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Nakasozi Buddo, Wakiso Uganda
+* ✉️  You can contact me at [ibrahim.s0690@gmail.com](mailto:ibrahim.s0690@gmail.com)
+* 🚀  I'm currently working on [Friendly Africa Travels](http://budgetugandatours.com)
+* 🧠  I'm currently learning Digital Marketting
+* 💬  Ask me about I love Codm
